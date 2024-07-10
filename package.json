@@ -1,0 +1,15 @@
+{
+  "name": "telegram-api-bot",
+  "version": "1.0.0",
+  "description": "API para intgrar bot do telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Api, telegram, bot"],
+  "author": "Infozap - Diego Prates",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
